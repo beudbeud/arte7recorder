@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd /usr/share/pyshared/arte7recorder
+python arte7recorder.py $@

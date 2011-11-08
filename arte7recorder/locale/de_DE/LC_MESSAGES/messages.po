@@ -1,0 +1,165 @@
+# German translation for arte+7recorder
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the arte+7recorder package.
+# adrien <beudbeud@gmail.com>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: arte+7recorder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-14 16:56+0100\n"
+"PO-Revision-Date: 2010-05-16 16:19+0000\n"
+"Last-Translator: albertone <Unknown>\n"
+"Language-Team: German <de@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: Arte7recorderWindow.ui.h:1
+msgid "Add reportage"
+msgstr "Sendung hinzufügen"
+
+#: Arte7recorderWindow.ui.h:2
+msgid "Arte +7 Recorder"
+msgstr "Arte + 7 Recorder"
+
+#: Arte7recorderWindow.ui.h:3
+msgid "Date :"
+msgstr "Datum:"
+
+#: Arte7recorderWindow.ui.h:4
+msgid "Double clic for show summary"
+msgstr "Doppelklick um Inhaltsangabe anzuzeigen"
+
+#: Arte7recorderWindow.ui.h:5
+msgid "Download"
+msgstr "Herunterladen"
+
+#: Arte7recorderWindow.ui.h:6
+msgid "Download Arte TV reportage"
+msgstr "Arte Sendungen herunterladen"
+
+#: Arte7recorderWindow.ui.h:7
+msgid "List of reportage selected :"
+msgstr "Liste der ausgewählten Sendungen"
+
+#: Arte7recorderWindow.ui.h:8
+msgid "Name :"
+msgstr "Name:"
+
+#: Arte7recorderWindow.ui.h:9
+msgid "Need restart"
+msgstr "Benötigt Neustart"
+
+#: Arte7recorderWindow.ui.h:10
+msgid "Remove reportage"
+msgstr "Sendung löschen"
+
+#: Arte7recorderWindow.ui.h:11
+msgid "Reportage :"
+msgstr "Sendungen:"
+
+#: Arte7recorderWindow.ui.h:12
+msgid "Right clic show menu"
+msgstr "Menüanzeige rechts anklicken"
+
+#: Arte7recorderWindow.ui.h:13
+msgid "Select Directory to save reportage :"
+msgstr "Zum Speichern Folder auswählen"
+
+#: Arte7recorderWindow.ui.h:14
+msgid "Select directoy"
+msgstr "Folder auswählen"
+
+#: Arte7recorderWindow.ui.h:15
+msgid "Select your video player :"
+msgstr "Media Player auswählen"
+
+#: Arte7recorderWindow.ui.h:16
+msgid "Summary :"
+msgstr "Zusammenfassung:"
+
+#: Arte7recorderWindow.ui.h:17 arte7recorder.py:188
+msgid "There are problem with your internet connection"
+msgstr "Es gibt ein Problem mit ihrem Internetanschluss"
+
+#: Arte7recorderWindow.ui.h:18
+msgid "Time :"
+msgstr "Zeit:"
+
+#: Arte7recorderWindow.ui.h:19
+msgid "Web site"
+msgstr "Web site"
+
+#: Arte7recorderWindow.ui.h:20
+msgid ""
+"Welcom Arte +7 recorder\n"
+"It's a first run please configure"
+msgstr ""
+"Willkommen auf Arte + 7  recorder\n"
+"Erststart, bitte Konfiguration einstellen"
+
+#: Arte7recorderWindow.ui.h:22
+msgid "_Files"
+msgstr "_Dateien"
+
+#: Arte7recorderWindow.ui.h:23
+msgid "_Help"
+msgstr "_Hilfe"
+
+#: Arte7recorderWindow.ui.h:24
+msgid "mplayer"
+msgstr "mplayer"
+
+#: Arte7recorderWindow.ui.h:25
+msgid "totem"
+msgstr "totem"
+
+#: Arte7recorderWindow.ui.h:26
+msgid "vlc"
+msgstr "vlc"
+
+#: arte7recorder.py:146
+msgid "Waiting"
+msgstr "Warten"
+
+#: arte7recorder.py:163
+msgid "Download complete"
+msgstr "Download abgeschlossen"
+
+#: arte7recorder.py:181
+msgid "Download..."
+msgstr "Herunterladen ..."
+
+#: arte7recorder.py:204 arte7recorder.py:230 arte7recorder.py:306
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: arte7recorder.py:214
+msgid "Remaining : "
+msgstr "Rest "
+
+#: arte7recorder.py:221
+msgid "Complete"
+msgstr "Abgeschlossen"
+
+#: arte7recorder.py:239 arte7recorder.py:314
+msgid "Name"
+msgstr "Name"
+
+#: arte7recorder.py:240 arte7recorder.py:315
+msgid "Date"
+msgstr "Datum"
+
+#: arte7recorder.py:241 arte7recorder.py:316
+msgid "Url"
+msgstr "Adresse"
+
+#: arte7recorder.py:242
+msgid "Picture"
+msgstr "Bild(er)"
+
+#: arte7recorder.py:317
+msgid "Progress"
+msgstr "Verlauf"

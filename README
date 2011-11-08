@@ -1,0 +1,16 @@
+-===============================-
+-=   Arte +7 Recorder 5.0.0    =-
+-===============================-
+
+-= You need =_
+  * python
+  * pygtk (>= 2.6)
+  * python-glade
+  * mimms
+  * gawk
+  * python-central
+
+-= Install=_
+
+make install
+

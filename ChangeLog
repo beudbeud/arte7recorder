@@ -1,0 +1,45 @@
+2010-05-29	Fabien Boutantin <fabien.boutantin@gmail.com>
+
+	* Fix nouvelle version du site
+
+2010-05-16	Adrien Beudin <beudbeud@gmail.com>
+
+	* Ajout langue allemand
+
+2010-05-10	Adrien Beudin <beudbeud@gmail.com>
+
+	* Ajout du choix des player
+	* correction bug du choix du repertoire de téléchargement
+
+2010-05-04  Adrien Beudin <beudbeud@gmail.com>
+
+	* démarrage fullscreen
+	* résumé de la dernière emission affiché
+	* correction bug petite résolution
+
+2010-05-03  Adrien Beudin <beudbeud@gmail.com>
+
+	* Ajout icone systray
+
+2009-12-17  Adrien Beudin <beudbeud@gmail.com>
+
+	* Modification lang fr
+
+2009-12-14  Adrien Beudin <beudbeud@gmail.com>
+
+	* Ajout durée émission
+	* Ajout infobulle
+
+2009-12-13  Adrien Beudin <beudbeud@gmail.com>
+
+	* Ajout menu contextuel
+	* Ajout preview
+	* Modification comportement bouton annuler
+
+2009-12-10  Adrien Beudin <beudbeud@gmail.com>
+
+	* Modification du téléchargement
+
+2009-12-02  Adrien Beudin <beudbeud@gmail.com>
+
+	* Initial release

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=arte+7recorder
+Type=Application
+GenericName=Arte+7recorder
+Comment=Enregistrement des emissions de arte
+Icon=/usr/share/pixmaps/arte-icon.png
+Exec=arte7recorder
+Terminal=false
+StartupNotify=false
+Categories=AudioVideo;Player;
+Name[fr_FR]=arte+7recorder

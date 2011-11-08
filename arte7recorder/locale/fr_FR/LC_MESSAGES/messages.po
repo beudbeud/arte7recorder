@@ -1,0 +1,165 @@
+# French translations for PACKAGE package.
+# Copyright (C) 2009 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# adrien <beudbeud@gmail.com>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-14 16:56+0100\n"
+"PO-Revision-Date: 2009-12-14 16:56+0100\n"
+"Last-Translator: adrien <beudbeud@gmail.com>\n"
+"Language-Team: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: Arte7recorderWindow.ui.h:1
+msgid "Add reportage"
+msgstr "Ajouter l'emission"
+
+#: Arte7recorderWindow.ui.h:2
+msgid "Arte +7 Recorder"
+msgstr "Arte +7 Recorder"
+
+#: Arte7recorderWindow.ui.h:3
+msgid "Date :"
+msgstr "Date :"
+
+#: Arte7recorderWindow.ui.h:4
+msgid "Double clic for show summary"
+msgstr "Double clic affiche le résumé"
+
+#: Arte7recorderWindow.ui.h:5
+msgid "Download"
+msgstr "Télécharger"
+
+#: Arte7recorderWindow.ui.h:6
+msgid "Download Arte TV reportage"
+msgstr "Téléchargement des émissions d'Arte"
+
+#: Arte7recorderWindow.ui.h:7
+msgid "List of reportage selected :"
+msgstr "Liste des émissions sélectionnées"
+
+#: Arte7recorderWindow.ui.h:8
+msgid "Name :"
+msgstr "Nom :"
+
+#: Arte7recorderWindow.ui.h:9
+msgid "Need restart"
+msgstr "Prise en charge après Redémarrage"
+
+#: Arte7recorderWindow.ui.h:10
+msgid "Remove reportage"
+msgstr "Suppression émision"
+
+#: Arte7recorderWindow.ui.h:11
+msgid "Reportage :"
+msgstr "Emissions :"
+
+#: Arte7recorderWindow.ui.h:12
+msgid "Right clic show menu"
+msgstr "Clic droit affiche le menu"
+
+#: Arte7recorderWindow.ui.h:13
+msgid "Select Directory to save reportage :"
+msgstr "Sélectionner votre répertoire de sauvegarde"
+
+#: Arte7recorderWindow.ui.h:14
+msgid "Select directoy"
+msgstr "Sélectionner votre répertoire"
+
+#: Arte7recorderWindow.ui.h:15
+msgid "Select your video player :"
+msgstr "Sélectionner votre lecteur vidéo :"
+
+#: Arte7recorderWindow.ui.h:16
+msgid "Summary :"
+msgstr "Résumé :"
+
+#: Arte7recorderWindow.ui.h:17 arte7recorder.py:188
+msgid "There are problem with your internet connection"
+msgstr "Il y a un problème avec votre connexion internet"
+
+#: Arte7recorderWindow.ui.h:18
+msgid "Time :"
+msgstr "Durée :"
+
+#: Arte7recorderWindow.ui.h:19
+msgid "Web site"
+msgstr "Site web"
+
+#: Arte7recorderWindow.ui.h:20
+msgid ""
+"Welcom Arte +7 recorder\n"
+"It's a first run please configure"
+msgstr ""
+"Bienvenue sur Arte +7 recorder\n"
+"1er démarrage veuillez configurer"
+
+#: Arte7recorderWindow.ui.h:22
+msgid "_Files"
+msgstr "_Fichier"
+
+#: Arte7recorderWindow.ui.h:23
+msgid "_Help"
+msgstr "_Aide"
+
+#: Arte7recorderWindow.ui.h:24
+msgid "mplayer"
+msgstr "mplayer"
+
+#: Arte7recorderWindow.ui.h:25
+msgid "totem"
+msgstr "totem"
+
+#: Arte7recorderWindow.ui.h:26
+msgid "vlc"
+msgstr "vlc"
+
+#: arte7recorder.py:146
+msgid "Waiting"
+msgstr "En attente"
+
+#: arte7recorder.py:163
+msgid "Download complete"
+msgstr "Téléchargement terminé"
+
+#: arte7recorder.py:181
+msgid "Download..."
+msgstr "Téléchargement..."
+
+#: arte7recorder.py:204 arte7recorder.py:230 arte7recorder.py:306
+msgid "Cancel"
+msgstr "Annulé"
+
+#: arte7recorder.py:214
+msgid "Remaining : "
+msgstr "Restant : "
+
+#: arte7recorder.py:221
+msgid "Complete"
+msgstr "Terminé"
+
+#: arte7recorder.py:239 arte7recorder.py:314
+msgid "Name"
+msgstr "Nom"
+
+#: arte7recorder.py:240 arte7recorder.py:315
+msgid "Date"
+msgstr "Date"
+
+#: arte7recorder.py:241 arte7recorder.py:316
+msgid "Url"
+msgstr "Url"
+
+#: arte7recorder.py:242
+msgid "Picture"
+msgstr "Image"
+
+#: arte7recorder.py:317
+msgid "Progress"
+msgstr "Progression"
