@@ -427,9 +427,14 @@ class GUI(object):
               pass
       self.textbuffer1 = self.builder.get_object("textbuffer1")
       self.textbuffer1.set_text(data_resume)
-      data_time = self.dureeRE.search(page).group(1)
+      data_time = self.dureeRE.search(page)
+      if data_time:
+          data_time = data_time.group(1)  + " min"
+      else:
+		  data_time = "Inconnue"
+
       self.label13 = self.builder.get_object("label13")
-      self.label13.set_text(data_time + " min")
+      self.label13.set_text(data_time)
       f = urllib2.urlopen(data_image)
       local = open("/tmp/image.jpg", 'wb')
       local.write(f.read())
